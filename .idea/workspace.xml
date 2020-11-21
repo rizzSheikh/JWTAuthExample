@@ -4,15 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e94cbf-db44-4a04-8e17-5107745e41e5" name="Default Changelist" comment="" />
+    <list default="true" id="c1e94cbf-db44-4a04-8e17-5107745e41e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -127,6 +135,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1kbTUjAU05bPbJYxEaucdHCjd1U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -155,6 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605968310276</updated>
       <workItem from="1605968312448" duration="6375000" />
+      <workItem from="1605974753806" duration="1214000" />
     </task>
     <servers />
   </component>
@@ -170,6 +180,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="334" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1605970058662" />
+    <state x="371" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605976840530">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1605976840530" />
+    <state x="501" y="239" key="Github.ShareDialog" timestamp="1605974869454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="501" y="239" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1605974869454" />
+    <state x="408" y="46" key="Github.UntrackedFilesDialog" timestamp="1605974876049">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="408" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1605974876049" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1605973148376">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

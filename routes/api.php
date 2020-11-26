@@ -21,3 +21,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::post('login', 'App\Http\Controllers\AuthController@login');
 Route::post('register', 'App\Http\Controllers\AuthController@register');
+Route::post('delete_duplicates', 'App\Http\Controllers\UserActionController@deleteDuplicates');
+Route::post('second_high_salary', 'App\Http\Controllers\UserActionController@secondHighSalary');

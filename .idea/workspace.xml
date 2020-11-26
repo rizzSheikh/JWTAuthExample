@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c1e94cbf-db44-4a04-8e17-5107745e41e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UserActionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UserActionController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +164,7 @@
       <updated>1605968310276</updated>
       <workItem from="1605968312448" duration="6375000" />
       <workItem from="1605974753806" duration="2394000" />
-      <workItem from="1606372295592" duration="6812000" />
+      <workItem from="1606372295592" duration="14980000" />
     </task>
     <servers />
   </component>
@@ -194,10 +194,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="408" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1605974876049" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1606377415187">
+    <state x="338" y="64" key="NewPhpClassDialog" timestamp="1606392617378">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="338" y="64" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1606392617378" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1606393586646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1606373775123" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1606377415187" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1606393586646" />
   </component>
 </project>

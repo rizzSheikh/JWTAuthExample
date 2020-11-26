@@ -5,9 +5,16 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Validator;
+use Tymon\JWTAuth\Exceptions\JWTException;
 
 class UserActionController extends Controller
 {
+
+    public function __construct()
+    {
+        //$this->middleware('auth:api');
+    }
+
     public function deleteDuplicates(Request $request)
     {
 
@@ -80,7 +87,8 @@ class UserActionController extends Controller
 
     }
 
-    public function secondHighSalary(){
+    public function secondHighSalary(Request $request){
+
         return  response()->json([
             'message'=> 'done'
         ]);
